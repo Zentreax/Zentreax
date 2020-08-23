@@ -19,15 +19,13 @@ type Me struct{
   Pronouns string
   Code string
   Job string
-  BestAndFavoriteSkill string
 }
 
 func main() {
   me := &Me{
     Job: "Freelancing",
     Pronouns: "He/Him",
-    Code: "https://portfolio.zentreax.dev",
-    BestAndFavoriteSkill: "Hacking :D"
+    Code: "https://portfolio.zentreax.dev"
   }
   _ = me
 }
