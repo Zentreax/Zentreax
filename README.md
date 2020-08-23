@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2> Hi, I'm Zentreax!</h2>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hahwul&show_icons=true&theme=radical" width="380">
+<p><em>Security Researcher & Developer<br>
+  <!--Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
+</em></p>
 
-<!--
-**Zentreax/Zentreax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter: zentreaxdev](https://img.shields.io/twitter/follow/zentreaxdev?style=flat-square)](https://twitter.com/zentreaxdev)
+[![GitHub hahwul](https://img.shields.io/github/followers/zentreax?label=follow%20github&style=flat-square)](https://github.com/zentreax)
+[![Paypal hahwul](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://zentreax.dev/support.txt)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### More about me...
+
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main() {
+  me := &Me{
+    Job: "Freelancing",
+    Pronouns: "He/Him",
+    Code: "https://portfolio.zentreax.dev",
+    BestAndFavoriteSkill: "Hacking :D"
+  }
+  _ = me
+}
+```
+---
