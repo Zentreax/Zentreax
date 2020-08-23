@@ -1,4 +1,4 @@
-<h2> Hi, I'm Zentreax!</h2>
+<h2> Hi, I'm Zentreax! 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=zentreax&show_icons=true&theme=radical" width="380">
 <p><em>Security Researcher & Developer<br>
   <!--Developer and H4cker <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
