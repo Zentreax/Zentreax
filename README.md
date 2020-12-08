@@ -24,7 +24,6 @@ type Me struct{
 func main() {
   me := &Me{
     Job: "Freelancing",
-    Pronouns: "He/Him",
     Code: "https://zentreax.dev"
   }
   _ = me
