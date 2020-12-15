@@ -16,7 +16,6 @@
 package main
 
 type Me struct{
-  Pronouns string
   Code string
   Job string
 }
